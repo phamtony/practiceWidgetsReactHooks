@@ -54,10 +54,6 @@ const Dropdown = ({options, selected, onSelectedChange}) => {
                     </div>
                 </div>
             </div>
-
-            <div>
-                <p class={selected.value}>The Text is {selected.value}</p>
-            </div>
         </div>
     );
 };
