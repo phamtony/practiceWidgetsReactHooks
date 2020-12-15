@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="274a27aa-f5ff-4636-aa6b-b2b84c9dcfdf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/Convert.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Dropdown.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Dropdown.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Translate.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Translate.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607640811660</updated>
       <workItem from="1607640814845" duration="17412000" />
-      <workItem from="1607849888679" duration="6066000" />
+      <workItem from="1607849888679" duration="6484000" />
     </task>
     <servers />
   </component>
