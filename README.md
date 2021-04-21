@@ -1,1 +1,1 @@
-Taking the same project and using hooks instead of class. 
+# ReactJS widget and hooks
